@@ -11,4 +11,6 @@ How it works:
 * After entering a song name, the program matches your song name to what it thinks you mean, finds song matches based on the genre(s), audience, and artist.
 * Program prints 5 song recommendations and is ready to be used again for another prompt.
 
-https://i.imgur.com/x19vWy3.png
+Sample:
+
+<img width="30%" src="https://i.imgur.com/ZqUzgDb.png" align="left" />
