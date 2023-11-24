@@ -13,4 +13,4 @@ How it works:
 
 Sample:
 
-<img width="30%" src="https://i.imgur.com/ZqUzgDb.png" align="left" />
+<img width="50%" src="https://i.imgur.com/ZqUzgDb.png" align="left" />
